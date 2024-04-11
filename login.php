@@ -75,7 +75,7 @@ if (isset($_POST['signin_btn'])) {
     </div>
   
     <div class="mt-6 sm:mx-auto sm:w-full sm:max-w-md bg-white px-7 py-6 rounded-md shadow-sm">
-      <form class="space-y-6"  method="POST">
+      <form class="space-y-6"  method="POST">F
       <?php if($showError){
           ?>
 <div class="p-4 mb-4 text-sm text-red-800 rounded-lg bg-red-50 dark:bg-gray-800 dark:text-red-400" role="alert">
