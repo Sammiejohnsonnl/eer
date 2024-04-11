@@ -37,7 +37,7 @@
 
     </div>
 </section>
-<!-- Thrid cards section -->
+<!-- Third cards section -->
 <section class="bg-gray-200">
     <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
         <div class="max-w-screen-lg mb-8 lg:mb-10">
